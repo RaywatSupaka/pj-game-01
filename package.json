@@ -1,0 +1,11 @@
+{
+  "name": "pj-game-01-tooling",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Dependency-free repository checks; not the game runtime",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "check": "node tools/check-repository.mjs",
+    "doctor": "node tools/doctor.mjs"
+  }
+}
