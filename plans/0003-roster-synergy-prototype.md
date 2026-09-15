@@ -12,7 +12,7 @@ Prove that the loop `shop/roll → buy/merge → arrange roster and support obje
 ## Prototype scope
 
 - Offline single-player Run with untimed Prepare and explicit Ready.
-- One grid board, 3 races, 2–3 classes, 6–9 units, and 3 positional support objects.
+- One grid board, 4 races (Human, Orc, Elf, Dwarf), 3 classes, 8 units, and 3 positional support objects.
 - Five shop slots, gold and roll action, bench of 8, field capacity 6–8.
 - Duplicate units merge into a star upgrade; race traits count unique characters.
 - Four-direction movement, passive abilities, deterministic target selection and seeded simulation.
@@ -38,6 +38,6 @@ Prove that the loop `shop/roll → buy/merge → arrange roster and support obje
 
 ## Risks / rollback
 
-Too many races or objects can hide the core choice; keep content data small.
+Four races are acceptable for variety, but too many units or objects can hide the core choice; keep content data small and use two units per race initially.
 If deterministic reruns diverge, block online/replay work and fix simulation ordering first.
 Revert the feature branch commits to remove the prototype; foundation and archived design remain intact.

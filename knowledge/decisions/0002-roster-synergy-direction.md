@@ -7,7 +7,7 @@ Updated: 2026-09-15
 Remove the alternating attack/defense mechanic from the current design.
 The new direction centers on rolling for characters, combining fantasy races/traits, positioning units and placing objects in an auto-battle.
 TFT is a reference for team-building; it does not automatically select TFT's economy, lobby format, timers, unit pool or upgrade rules.
-Prototype uses three races selected from the fantasy set (final names and bonuses are content data), with 6–9 units and Race + Class tags.
+Prototype uses four races: Human, Orc, Elf and Dwarf, with 8 units and Race + Class tags. Demons and other races are post-prototype content.
 
 ## Effect on existing material
 

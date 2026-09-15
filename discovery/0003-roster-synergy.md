@@ -16,7 +16,8 @@ Remove alternating attack/defense. Roll for characters, combine races/traits, po
 ## Accepted prototype decisions
 
 - Race + Class; count unique characters for trait thresholds.
-- Three races, 6–9 units, support objects only.
+- Four races including Human, 8 units, support objects only.
+- Initial race set: Human, Orc, Elf and Dwarf. Demons and other races remain post-prototype content.
 - Duplicate characters combine into star upgrades.
 - Shop has 5 slots; roll costs gold; begin with a simple shared pool.
 - Board uses a grid, 4-direction movement, deterministic targeting and passive abilities only.
