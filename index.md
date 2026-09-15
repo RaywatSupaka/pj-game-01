@@ -12,6 +12,7 @@
 | decisions | Workflow ที่ผู้ใช้กำหนด | accepted | [Workflow decision](knowledge/decisions/0001-workflow.md) |
 | decisions | ตัดรุก/รับ เปลี่ยนเป็น roster synergy | accepted direction | [Direction change](knowledge/decisions/0002-roster-synergy-direction.md) |
 | product | ไทย/อังกฤษและขอบเขต localization | accepted scope | [Localization](knowledge/product/localization.md) |
+| product | Augment, Event และ Pair Synergy | accepted prototype scope | [Run modifiers](knowledge/product/run-modifiers.md) |
 | development | Unity Windows/Android setup | scaffold | [Unity setup](knowledge/development/unity-setup.md) |
 | research | Unity platform dependencies | verified docs | [Platforms](knowledge/research/unity-platforms.md) |
 

@@ -22,6 +22,7 @@ Prototype uses four races: Human, Orc, Elf and Dwarf, with 8 units and Race + Cl
 Independent run, untimed prepare and Ready remain. The shop uses five slots and a gold roll; duplicate characters combine into star upgrades.
 Use a grid with four-direction movement, deterministic targeting and passive abilities. Start with six to eight field units, eight bench slots and separate support-object slots.
 Objects provide positional buffs only in the first prototype. Player HP is reduced on defeat; zero HP ends the run. No permanent power progression yet.
+Each Run includes Augments, Events and Race Pair Synergies. At three milestones, select one Augment from three options; prototype content is six Augments, six Events, three positive pair synergies and one conditional Rivalry pair. Events are visible, seeded and last for the Run or 1–3 rounds.
 
 ## Open questions after prototype
 

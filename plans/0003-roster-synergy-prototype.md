@@ -15,6 +15,7 @@ Prove that the loop `shop/roll → buy/merge → arrange roster and support obje
 - One grid board, 4 races (Human, Orc, Elf, Dwarf), 3 classes, 8 units, and 3 positional support objects.
 - Five shop slots, gold and roll action, bench of 8, field capacity 6–8.
 - Duplicate units merge into a star upgrade; race traits count unique characters.
+- Six Augments and six Events; at three milestones choose one Augment from three options. Include three positive Race Pair Synergies and one conditional Rivalry pair.
 - Four-direction movement, passive abilities, deterministic target selection and seeded simulation.
 - Player HP loss on defeat; Run ends at zero HP. No PvP, co-op, backend, voice or permanent power progression.
 
@@ -26,6 +27,7 @@ Prove that the loop `shop/roll → buy/merge → arrange roster and support obje
 4. Repeating the same build, opponent setup and seed produces the same simulation result.
 5. After a defeat, the player can explain one change they want to try next.
 6. The full slice is playable offline on Windows and Android; Thai/English strings use the existing localization rules.
+7. Augments and Events visibly change available choices or outcomes, and their effects appear in the battle summary.
 
 ## Ordered work
 
@@ -34,7 +36,8 @@ Prove that the loop `shop/roll → buy/merge → arrange roster and support obje
 3. Add content data for the limited roster, shop/roll, merge and object buffs.
 4. Add presentation for Prepare, Shop, Bench, Board, Ready, Battle and Result.
 5. Add save checkpoints and deterministic rerun for the current Run.
-6. Playtest Windows and Android; record observations and tune data without changing contracts casually.
+6. Add seeded Augment/Event selection and Run modifier display.
+7. Playtest Windows and Android; record observations and tune data without changing contracts casually.
 
 ## Risks / rollback
 

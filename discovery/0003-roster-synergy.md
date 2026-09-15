@@ -23,6 +23,9 @@ Remove alternating attack/defense. Roll for characters, combine races/traits, po
 - Board uses a grid, 4-direction movement, deterministic targeting and passive abilities only.
 - Roster capacity starts at 6–8 field units, bench at 8, objects use separate slots.
 - Run uses player HP; defeat removes HP and the Run ends at zero. No permanent power progression in the first prototype.
+- Each Run has Augments, Events and Race Pair Synergies. Choose one Augment from three options at each of three milestones; prototype has 6 Augments and 6 Events.
+- Events are visible, seeded rules lasting the Run or a defined 1–3 round window. Prototype has three positive pair synergies and one conditional Rivalry pair.
+- Augments and Events change decisions, not only raw stats. Every Race remains viable alone.
 
 ## Plan follow-up
 
