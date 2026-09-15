@@ -1,12 +1,18 @@
 # Discovery 0002 — Thai and English
 
-Status: awaiting scope answers; no implementation plan approved yet
+Status: ready for foundation; user answered scope questions
 Source: user's request to support multiple languages, starting with Thai and English
 
 ## Confirmed
 
 - Initial languages: Thai and English.
 - Existing foundation: solo developer, Unity 6 / C# / URP, Windows and Android.
+
+## User answers
+
+- Translate all text, including unit/item names.
+- Follow device language initially; unsupported language uses English.
+- Text only; no localized voice. Settings switching and persistence included in the answered question.
 
 ## Questions asked
 
@@ -31,5 +37,5 @@ Source: user's request to support multiple languages, starting with Thai and Eng
 
 ## Readiness
 
-Scope/initial locale/voice answers are blocking for the implementation plan. Record answers before starting feature code.
+Scope/initial locale/voice questions are answered. Foundation plan is recorded; Unity runtime work remains dependent on editor installation.
 Font selection, package pinning and precise UI integration belong to that plan; no package added in discovery.

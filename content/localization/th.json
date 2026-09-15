@@ -1,0 +1,11 @@
+{
+  "ui.ready": "พร้อม",
+  "ui.settings": "ตั้งค่า",
+  "ui.language": "ภาษา",
+  "ui.back": "กลับ",
+  "language.th": "ไทย",
+  "language.en": "English",
+  "battle.victory": "ชนะ",
+  "battle.defeat": "แพ้",
+  "reward.gold": "ได้รับทอง: {amount}"
+}

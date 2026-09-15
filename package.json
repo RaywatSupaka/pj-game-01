@@ -5,7 +5,8 @@
   "description": "Dependency-free repository checks; not the game runtime",
   "engines": { "node": ">=22" },
   "scripts": {
-    "check": "node tools/check-repository.mjs",
+    "check": "node tools/check-repository.mjs && node tools/check-localization.mjs",
+    "check:localization": "node tools/check-localization.mjs",
     "doctor": "node tools/doctor.mjs"
   }
 }

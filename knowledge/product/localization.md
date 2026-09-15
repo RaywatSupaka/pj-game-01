@@ -1,11 +1,13 @@
 # Localization — Thai and English
 
-Status: initial languages confirmed; behavior proposed pending discovery
+Status: accepted scope; foundation catalogs checked; runtime not implemented
 Source: user's request, 2026-09-15; [discovery](../../discovery/0002-localization.md)
 Updated: 2026-09-15
 
 Prepare multilingual support from the foundation, starting with Thai (`th`) and English (`en`).
-The exact text coverage, initial language selection and voice scope are being clarified.
+Confirmed: all player-facing text including names; device language initially with English fallback; Settings override persisted locally; text only, no voice.
+See [rules](../../rules/localization.md) and [plan](../../plans/0002-localization-foundation.md).
+Initial canonical catalogs are content/localization/en.json and th.json. Unit/item names will be added when that content is designed.
 i18n means preparing code and UI for multiple languages; localization supplies the actual translated text and assets.
 Keep language concerns in presentation/content so switching language does not change battle rules or saved entity IDs.
 
