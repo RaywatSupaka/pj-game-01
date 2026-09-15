@@ -1,0 +1,11 @@
+{
+  "ui.ready": "Ready",
+  "ui.settings": "Settings",
+  "ui.language": "Language",
+  "ui.back": "Back",
+  "language.th": "ไทย",
+  "language.en": "English",
+  "battle.victory": "Victory",
+  "battle.defeat": "Defeat",
+  "reward.gold": "Gold received: {amount}"
+}

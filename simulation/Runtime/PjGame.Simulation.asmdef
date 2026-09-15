@@ -1,0 +1,7 @@
+{
+  "name": "PjGame.Simulation",
+  "rootNamespace": "PjGame.Simulation",
+  "references": [],
+  "autoReferenced": false,
+  "noEngineReferences": true
+}

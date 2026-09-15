@@ -1,0 +1,6 @@
+{
+  "name": "PjGame.Presentation",
+  "rootNamespace": "PjGame.Presentation",
+  "references": ["PjGame.Simulation"],
+  "autoReferenced": true
+}

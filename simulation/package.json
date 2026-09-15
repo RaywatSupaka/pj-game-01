@@ -1,0 +1,7 @@
+{
+  "name": "com.pjgame.simulation",
+  "version": "0.1.0",
+  "displayName": "PJ Game Simulation",
+  "description": "Rendering-independent battle simulation boundary. No gameplay implemented yet.",
+  "unity": "6000.3"
+}
