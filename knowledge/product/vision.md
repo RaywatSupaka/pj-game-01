@@ -1,10 +1,10 @@
 # Game vision
 
-Status: proposed — ยังไม่ใช่ scope ที่อนุมัติทั้งหมด
-Source: [เอกสารผู้ใช้](../sources/original-game-design.md), sections 1–3, 45–49
+Status: revised direction accepted; detailed gameplay pending discovery
+Source: [ทิศทางใหม่จากผู้ใช้](../decisions/0002-roster-synergy-direction.md); original document is historical reference
 Updated: 2026-09-15
 
-แนวคิด: async roguelite auto-battler ที่จัดกองทัพและป้อมในช่วง prepare แบบไม่มี timer แล้วกด Ready ดูผลและปรับ build
-เป้าหมายระยะยาวในเอกสาร: PC/mobile, PvE, ghost PvP และ co-op
+แนวคิดใหม่: auto-battler ที่ roll หาตัวละคร ผสมเผ่า/โบนัสทีม จัดตำแหน่งและวาง object โดยไม่มีระบบสลับรุก–รับ
+PC/mobile ยังคงเดิม ส่วน run แบบเดิม, prepare ไม่มี timer, PvE, ghost PvP และ co-op ต้องทบทวนความเหมาะสมกับทิศทางใหม่ ไม่ถือว่าการอ้าง TFT ยืนยัน lobby หรือ timer แบบใหม่
 เสาหลักที่เสนอ: การตัดสินใจก่อน Ready ต้องมีความหมาย ผลแพ้ชนะต้องอ่านเข้าใจได้ และอยากลองใหม่
-คำถามค้าง: กลุ่มผู้เล่นหลัก ระยะเวลาต่อ run และจุดขายหนึ่งอย่างที่ต้องพิสูจน์ก่อน
+คำถามค้าง: race/class model, object roles, run format และขอบเขต prototype ดู [discovery](../../discovery/0003-roster-synergy.md)
