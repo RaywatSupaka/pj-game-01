@@ -1,4 +1,9 @@
-# Game Concept & Development Plan
+# Archived — Game Concept & Development Plan
+
+Status: superseded reference-only; do not use as current scope
+Archived: 2026-09-15
+Replaced by: [current vision](../product/vision.md), [direction decision](../decisions/0002-roster-synergy-direction.md), [roster discovery](../../discovery/0003-roster-synergy.md)
+
 
 ## Async Roguelite Auto-Battler + Attack/Defense + Co-op
 

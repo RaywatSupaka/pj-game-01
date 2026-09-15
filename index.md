@@ -4,7 +4,7 @@
 
 | Category | Topic | Status | File |
 | --- | --- | --- | --- |
-| sources | เอกสารแนวคิดเกมที่ผู้ใช้แนบ | reference-only | [Original design](knowledge/sources/original-game-design.md) |
+| sources/archive | เอกสารแนวคิดเกมฉบับแรก (historical) | superseded reference | [Archived original design](knowledge/sources/archive-original-game-design.md) |
 | product | แนวคิดใหม่: roster และเผ่า | revised direction | [Vision](knowledge/product/vision.md) |
 | product | Prototype และคำถาม gameplay | redesign pending | [Prototype](knowledge/product/prototype.md) |
 | architecture | Engine และขอบเขตระบบ | accepted engine | [Stack](knowledge/architecture/stack.md) |

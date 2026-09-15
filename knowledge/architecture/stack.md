@@ -1,7 +1,7 @@
 # Stack and boundaries
 
 Status: accepted engine and platforms; backend remains proposed
-Source: [เอกสารผู้ใช้](../sources/original-game-design.md), sections 25–34, 47
+Source: [เอกสารผู้ใช้ฉบับเก็บถาวร](../sources/archive-original-game-design.md), sections 25–34, 47
 Updated: 2026-09-15
 
 ข้อเสนอในเอกสาร: Unity 6 / C# / URP; Nakama + PostgreSQL ภายหลัง; Redis ยังไม่จำเป็น

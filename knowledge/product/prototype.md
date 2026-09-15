@@ -1,7 +1,7 @@
 # Prototype candidate
 
 Status: previous combat scope superseded; revised prototype pending discovery
-Source: [เอกสารผู้ใช้](../sources/original-game-design.md), sections 35–44
+Source: [เอกสารผู้ใช้ฉบับเก็บถาวร](../sources/archive-original-game-design.md), sections 35–44
 Updated: 2026-09-15
 
 ทิศทางใหม่: shop/roll → buy → combine team traits → place units/objects → battle → result
