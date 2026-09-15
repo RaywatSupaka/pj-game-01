@@ -22,4 +22,5 @@
 - [Localization discovery](discovery/0002-localization.md)
 - [Localization foundation plan](plans/0002-localization-foundation.md)
 - [Roster synergy discovery](discovery/0003-roster-synergy.md)
+- [Roster synergy prototype plan](plans/0003-roster-synergy-prototype.md)
 - Templates: [discovery](templates/discovery.md), [plan](templates/plan.md), [knowledge](templates/knowledge.md)
